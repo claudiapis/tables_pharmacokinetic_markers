@@ -2,6 +2,7 @@ Pharmacokinetic markers of clinical outcomes in severe mental illness: a systema
 
 
 Table 1. Selected papers reporting on individuals affected by SCZ.
+\t
 Abbreviations: AD – Antidepressant; 2nd GEN-AP – second generation antipsychotic; AP – Antipsychotic; AUD – Alcohol Use Disorder; AUT  Austria; BPD – Bromperidol; BPRS – Brief Psychiatric Rating Scale; CAN – Canada; CG – Control Group; CGI – Clinical Global Impression; CHL – Chloropromazine; CHN – China; CLZ – Clozapine; CRO – Croatia; DEN - Denmark DSM-IV – Diagnostic and Statistical Manual of Mental Dis-orders -IV edition; F – Females; FEP – First Episode Psychosis; GGT – Gene Guided Treatment; GER – Germany; IND – India; JPN – Japan; LAI – Long Acting Injectables; M – Males; MR – Mental Retardation; MS – Mood Stabilizer; N/A – Not Available; N-PANSS – Negative subscale  – Positive and Negative Symptoms scale; NET – Netherlands; OCD – Obsessive Compulsive Disorder; OLA – Olanzapine; QUE – Quetiapine; RIS – Risperidone; SAD – Substance Abuse Disorder; SAPS – Scale for the Assessment of Positive Symptoms; SCA – Schizoaffective; SCZ – Schizo-phrenia; SCM – Structured Clinical Monitoring; SPN – Spain; SUD – Substance Use Disorder; P- PANSS – Positive Subscale – Positive and Negative Symptoms Scale; PANSS – Positive and Negative Symptoms Scale; PER – Perphenazine; T-PANSS – Total Positive and Negative Symptoms Scale; TRS – Treatment Resistant Schizophrenia; USA – United States of America; y.o. – years old; ZIP – Ziprasidone.
 
 
